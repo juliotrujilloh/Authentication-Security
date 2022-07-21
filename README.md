@@ -21,6 +21,7 @@ Also, this project uses cookies in case the page is closed you don't have to go 
 * HTML
 * JavaScript
 * CSS
+*Bootstrap
 * EJS
 * Passport
 * Passport-google-oauth
