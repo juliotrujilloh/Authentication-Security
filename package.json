@@ -8,7 +8,7 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "npm run build",
+    "build": "npm run build"
   },
   "author": "Julio Henriquez",
   "license": "ISC",
